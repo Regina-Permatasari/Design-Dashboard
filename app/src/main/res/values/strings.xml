@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="regina_permatasari">Regina Permatasari</string>m
+    <string name="driver_manager">Driver Manager</string>
+    <string name="parking_manager">Parking Manager</string>
+    <string name="feedback_bugs">Feedback/Bugs</string>
+    <string name="history">History</string>
+    <string name="support">Support</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search.....</string>
+    <string name="hello_regina">Hello, Regina!</string>
+</resources>
